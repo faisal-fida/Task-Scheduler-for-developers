@@ -21,7 +21,7 @@ This Python script automates the scheduling, listing, and deletion of tasks in t
     git clone https://github.com/faisal-fida/Task-Scheduler-for-developers
     
     
-    cd task-scheduler-automation
+    cd Task-Scheduler-for-developers
     ```
 
 2. **Run the Script**:
