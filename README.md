@@ -18,7 +18,8 @@ This Python script automates the scheduling, listing, and deletion of tasks in t
 
 1. **Clone the Repository**:
     ```sh
-    git clone https://github.com/yourusername/task-scheduler-automation.git
+    git clone https://github.com/faisal-fida/Task-Scheduler-for-developers
+    
     
     cd task-scheduler-automation
     ```
